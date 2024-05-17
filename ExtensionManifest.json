@@ -1,0 +1,10 @@
+{
+    "type": 1,
+    "name": "Elite Dangerous",
+    "author": "Lochkartenman",
+    "repository": "https://github.com/lochkartenman/MacroDeck.EliteDangerousIconPack",
+    "packageId": "Lochkartenman.EliteDangerous",
+    "version": "1.0.0",
+    "target-plugin-api-version": 32,
+    "dll": ""
+  }
