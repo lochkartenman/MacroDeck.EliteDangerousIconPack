@@ -13,3 +13,6 @@ The font used for the function names is _Arial Narrow_ hence it is advised use t
 
 ## Icon Generation
 The icons have been [generated](./generate.bat) with [ImageMagick](https://imagemagick.org/) rather than drawn by hand. Hence you can easily add additional matching icons or change the font.
+
+## Inspiration
+The inspiration for the style of icons and the corresponding [MacroDeck.EliteDangerousPlugin](https://github.com/lochkartenman/MacroDeck.EliteDangerousPlugin) comes from this [Reddid Post](https://www.reddit.com/r/EliteDangerous/comments/gvera7/ed_stream_deck_icon_pack_included/).
